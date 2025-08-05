@@ -197,11 +197,11 @@ function addStyles() {
       line-height: 20px;
       position: fixed;
       right: 15px;
-      bottom: 30px;
+      bottom: 50px;
       z-index: 5000;
       padding: 5px;
       border-radius: 5px;
-      max-width: 300px;
+      max-width: 320px;
     }
 
     .ltd-flyout-header {
