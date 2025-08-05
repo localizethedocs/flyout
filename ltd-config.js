@@ -23,6 +23,7 @@ var CONFIG_OPTIONS = {
     ["3.0",     "Release 3.0"],
   ],
   CONFIG_PROJECTS: [
+    ["Index",   "https://projects.localizethedocs.org"],
     ["Crowdin", "https://localizethedocs.crowdin.com/demo-docs-l10n"],
     ["GitHub",  "https://github.com/localizethedocs/demo-docs-l10n"],
     ["GitCode", "https://gitcode.com/localizethedocs/demo-docs-l10n"],
